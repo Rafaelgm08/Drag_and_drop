@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "prueba-fccba": {
+      "hosting": {
+        "prueba": [
+          "prueba-fccba"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "prueba-fccba"
+  }
+}
